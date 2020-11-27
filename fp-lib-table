@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name TMP006AIYZFR)(type KiCad)(uri ${KIPRJMOD}/ul_TMP006AIYZFR/KiCAD/2020-07-25_16-21-59/footprints.pretty)(options "")(descr ""))
   (lib (name CC3220MODASF12MONR)(type KiCad)(uri ${KIPRJMOD}/ul_CC3220MODASF12MONR/KiCAD/2020-05-13_17-39-37/footprints.pretty)(options "")(descr ""))
+  (lib (name TMP116)(type KiCad)(uri ${KIPRJMOD}/ul_TMP116AIDRVR/KiCAD/2020-11-06_12-18-19/footprints.pretty)(options "")(descr ""))
 )

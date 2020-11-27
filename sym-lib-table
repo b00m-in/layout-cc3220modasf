@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name cc3220modasf)(type Legacy)(uri ${KIPRJMOD}/cc3220modasf.lib)(options "")(descr ""))
+  (lib (name tmp116)(type Legacy)(uri ${KIPRJMOD}/ul_TMP116AIDRVR/KiCAD/2020-11-06_12-18-19/2020-11-06_12-18-19.lib)(options "")(descr ""))
 )

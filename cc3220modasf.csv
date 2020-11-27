@@ -1,0 +1,132 @@
+Source:,/home/sridhar/dev/kicad/cc3220s/cc3220modasf/cc3220modasf.sch,,,,,,,
+Date:,Sat 07 Nov 2020 18:14:13 GMT,,,,,,,
+Tool:,Eeschema 5.1.5-52549c5~84~ubuntu18.04.1,,,,,,,
+Generator:,/usr/share/kicad/plugins/bom_csv_grouped_by_value.py,,,,,,,
+Component Count:,86,,,,,,,
+,,,,,,,,
+Individual Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MFG Name,MFG Part Num
+,,C26,0.01uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/GRM155R61A103KA01-01.pdf,Murata,GRM155R61A103KA01D
+,,C27,0.01uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/C1005X7R1C103K050BA.pdf,TDK,C1005X7R1C103K
+,,C28,0.01uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/C1005X7R1C103K050BA.pdf,TDK,C1005X7R1C103K
+,,C29,0.01uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/C1005X7R1C103K050BA.pdf,TDK,C1005X7R1C103K
+,,C30,0.01uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/C1005X7R1C103K050BA.pdf,TDK,C1005X7R1C103K
+,,C33,0.1uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/partnumbering_e_01.pdf,Murata,GRM155R61A104KA01D
+,,C34,0.1uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/partnumbering_e_01.pdf,Murata,GRM155R61A104KA01D
+,,C35,0.1uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/partnumbering_e_01.pdf,Murata,GRM155R61A104KA01D
+,,C41,100uF,Device:C_Small,Capacitor_SMD:C_1206_3216Metric,passive/capacitor/partnumbering_e_01.pdf,Murata,GRM31CR60J107ME39L
+,,C42,100uF,Device:C_Small,Capacitor_SMD:C_1206_3216Metric,passive/capacitor/partnumbering_e_01.pdf,Murata,GRM31CR60J107ME39L
+,,D4,D_Schottky,Device:D_Schottky,Diode_SMD:D_0603_1608Metric,passive/diode/cd0603-b.pdf,Bourns,CD0603-B0240R/B00340
+,,D5,D_Schottky,Device:D_Schottky,Diode_SMD:D_0603_1608Metric,passive/diode/cd0603-b.pdf,Bourns,CD0603-B0240R/B00340
+,,D8,GREEN LED,Device:LED,LED_SMD:LED_0603_1608Metric,passive/led/SML-LX0603GW-TR.pdf,Lumex,SML-LX0603GW-TR
+,,D9,YELLOW LED,Device:LED,LED_SMD:LED_0603_1608Metric,passive/led/1911348.pdf,Wurth Elektronik eiSos,150060YS75000
+,,D10,RED LED,Device:LED,LED_SMD:LED_0603_1608Metric,passive/led/SML-31_Series.pdf,Rohm,SML-311UTT86
+,,FID1,Fiducial,Mechanical:Fiducial,Fiducial:Fiducial_0.5mm_Mask1mm,~,,
+,,FID2,Fiducial,Mechanical:Fiducial,Fiducial:Fiducial_0.5mm_Mask1mm,~,,
+,,FID3,Fiducial,Mechanical:Fiducial,Fiducial:Fiducial_0.5mm_Mask1mm,~,,
+,,J1,Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,~,Samtec Inc,TSW-105-15-G-D
+,,J2,Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,~,Samtec Inc,TSW-105-15-G-D
+,,J3,Conn_01x06,Connector_Generic:Conn_01x06,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~,Wurth,'61301021121
+,,J5,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~,,
+,,J6,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~,,
+,,J10,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,Wurth Elektronik,'61300211121
+,,J11,Conn_02x04_Odd_Even,Connector_Generic:Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical,~,,
+,,J13,Conn_02x05_Counter_Clockwise,Connector_Generic:Conn_02x05_Counter_Clockwise,pwrcon:Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_CC_SMD,~,,
+,,J14,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,Wurth Elektronik,'61300211121
+,,J15,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,Wurth Elektronik,'61300211121
+,,J22,Conn_02x04_Odd_Even,Connector_Generic:Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical,~,,
+,,J26,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~,Wurth Elektronik,'61300311121
+,,Q4,BSS138,Transistor_FET:BSN20,Package_TO_SOT_SMD:SOT-23,active/BSS138-D.PDF,Fairchild,BSS138
+,,Q5,FDN358P,Transistor_FET:TP0610T,Package_TO_SOT_SMD:SuperSOT-3,active/FDN358P-1305850.pdf,Diodes Inc,FDN358P
+,,Q6,BSS138,Transistor_FET:BSN20,Package_TO_SOT_SMD:SOT-23,active/BSS138-D.PDF,Fairchild,BSS138
+,,Q7,BSS138,Transistor_FET:BSN20,Package_TO_SOT_SMD:SOT-23,active/BSS138-D.PDF,Fairchild,BSS138
+,,R44,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R49,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R50,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R53,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R54,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R57,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R58,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R60,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R62,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R63,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R64,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R65,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R66,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R69,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R71,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R72,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R73,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R74,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R84,470R,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/AOA0000C304.pdf,Panasonic,ERJ-2RKF4700X
+,,R85,576K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402576KFKED
+,,R86,576K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402576KFKED
+,,R87,470R,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/AOA0000C304.pdf,Panasonic,ERJ-2RKF4700X
+,,R88,422K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402422KFKED
+,,R89,422K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402422KFKED
+,,R92,470R,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/AOA0000C304.pdf,Panasonic,ERJ-2RKF4700X
+,,R93,470R,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/AOA0000C304.pdf,Panasonic,ERJ-2RKF4700X
+,,R94,576K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402576KFKED
+,,R95,576K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402576KFKED
+,,R96,422K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402422KFKED
+,,R97,422K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402422KFKED
+,,R105,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R107,270R,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW0603270RJNEA
+,,R108,100K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwpe3.pdf,Vishay-Dale,CRCW0402100KDHEDP
+,,R109,2.2K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW04022K20JNED
+,,R113,10K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW040210K0JNED
+,,R116,4k87,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW06034K87FKEA
+,,R117,4k87,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW06034K87FKEA
+,,R118,4k87,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW06034K87FKEA
+,,R134,100K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402100KJNED
+,,R136,1K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW04021K00JNEDC
+,,R139,10K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW040210K0JNEDC
+,,R145,270R,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW0603270RJNEAC
+,,R146,270R,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW0603270RJNEAC
+,,R147,270R,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW0603270RJNEAC
+,,R149,100K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW0402100KJNEDC
+,,R150,100K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW0402100KJNEDC
+,,R151,100K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW0402100KJNEDC
+,,R152,0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,SW2,SW_DIP_x01,Switch:SW_DIP_x01,Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS,~,APEM,MJTP1117
+,,U7,OPA4340UA,Amplifier_Operational:OPA4340UA,Package_SO:TSSOP-14_4.4x5mm_P0.65mm,active/opa340.pdf,Texas Instruments,OPA4342EA/250
+,,U9,CC3220MODASF12MONR,cc3220modasf:CC3220MODASF12MONR,CC3220MODASF12MONR:CC3220MODASF12MONR,ic/cc3220moda.pdf,Texas Instruments,CC3220MODASF12MON
+,,U10,TMP116AIDRVR,tmp116:TMP116AIDRVR,TMP116:TMP116AIDRVR,ic/tmp116.pdf,Texas Instruments,TMP116NAIDRVR
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Collated Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MFG Name,MFG Part Num
+1,5,"C26, C27, C28, C29, C30",0.01uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/GRM155R61A103KA01-01.pdf,Murata,GRM155R61A103KA01D
+2,3,"C33, C34, C35",0.1uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,passive/capacitor/partnumbering_e_01.pdf,Murata,GRM155R61A104KA01D
+3,2,"C41, C42",100uF,Device:C_Small,Capacitor_SMD:C_1206_3216Metric,passive/capacitor/partnumbering_e_01.pdf,Murata,GRM31CR60J107ME39L
+4,2,"D4, D5",D_Schottky,Device:D_Schottky,Diode_SMD:D_0603_1608Metric,passive/diode/cd0603-b.pdf,Bourns,CD0603-B0240R/B00340
+5,1,D8,GREEN LED,Device:LED,LED_SMD:LED_0603_1608Metric,passive/led/SML-LX0603GW-TR.pdf,Lumex,SML-LX0603GW-TR
+6,1,D9,YELLOW LED,Device:LED,LED_SMD:LED_0603_1608Metric,passive/led/1911348.pdf,Wurth Elektronik eiSos,150060YS75000
+7,1,D10,RED LED,Device:LED,LED_SMD:LED_0603_1608Metric,passive/led/SML-31_Series.pdf,Rohm,SML-311UTT86
+8,3,"FID1, FID2, FID3",Fiducial,Mechanical:Fiducial,Fiducial:Fiducial_0.5mm_Mask1mm,~,,
+9,2,"J1, J2",Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,~,Samtec Inc,TSW-105-15-G-D
+10,1,J3,Conn_01x06,Connector_Generic:Conn_01x06,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~,Wurth,'61301021121
+11,2,"J5, J6",Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~,,
+12,3,"J10, J14, J15",Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,Wurth Elektronik,'61300211121
+13,2,"J11, J22",Conn_02x04_Odd_Even,Connector_Generic:Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical,~,,
+14,1,J13,Conn_02x05_Counter_Clockwise,Connector_Generic:Conn_02x05_Counter_Clockwise,pwrcon:Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_CC_SMD,~,,
+15,1,J26,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~,Wurth Elektronik,'61300311121
+16,3,"Q4, Q6, Q7",BSS138,Transistor_FET:BSN20,Package_TO_SOT_SMD:SOT-23,active/BSS138-D.PDF,Fairchild,BSS138
+17,1,Q5,FDN358P,Transistor_FET:TP0610T,Package_TO_SOT_SMD:SuperSOT-3,active/FDN358P-1305850.pdf,Diodes Inc,FDN358P
+18,20,"R44, R49, R50, R53, R54, R57, R58, R60, R62, R63, R64, R65, R66, R69, R71, R72, R73, R74, R105, R152",0,Device:R_Small,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+19,4,"R84, R87, R92, R93",470R,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/AOA0000C304.pdf,Panasonic,ERJ-2RKF4700X
+20,4,"R85, R86, R94, R95",576K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402576KFKED
+21,4,"R88, R89, R96, R97",422K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW0402422KFKED
+22,4,"R107, R145, R146, R147",270R,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW0603270RJNEA
+23,5,"R108, R134, R149, R150, R151",100K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwpe3.pdf,Vishay-Dale,CRCW0402100KDHEDP
+24,1,R109,2.2K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW04022K20JNED
+25,2,"R113, R139",10K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW040210K0JNED
+26,3,"R116, R117, R118",4k87,Device:R_Small,Resistor_SMD:R_0603_1608Metric,passive/resistor/dcrcwe3.pdf,Vishay-Dale,CRCW06034K87FKEA
+27,1,R136,1K,Device:R_Small,Resistor_SMD:R_0402_1005Metric,passive/resistor/crcwce3.pdf,Vishay-Dale,CRCW04021K00JNEDC
+28,1,SW2,SW_DIP_x01,Switch:SW_DIP_x01,Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS,~,APEM,MJTP1117
+29,1,U7,OPA4340UA,Amplifier_Operational:OPA4340UA,Package_SO:TSSOP-14_4.4x5mm_P0.65mm,active/opa340.pdf,Texas Instruments,OPA4342EA/250
+30,1,U9,CC3220MODASF12MONR,cc3220modasf:CC3220MODASF12MONR,CC3220MODASF12MONR:CC3220MODASF12MONR,ic/cc3220moda.pdf,Texas Instruments,CC3220MODASF12MON
+31,1,U10,TMP116AIDRVR,tmp116:TMP116AIDRVR,TMP116:TMP116AIDRVR,ic/tmp116.pdf,Texas Instruments,TMP116NAIDRVR
